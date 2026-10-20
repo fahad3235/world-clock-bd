@@ -1,0 +1,4 @@
+# world-clock-bd .gitignore - static site, nothing to build
+node_modules/
+.DS_Store
+*.log
